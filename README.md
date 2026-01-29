@@ -3,4 +3,16 @@ The objective was to transform unstructured transactional data into a reliable, 
 
 All transformations were performed directly in PostgreSQL using SQL, following best practices for data quality and reproducibility.
 
+Tools & Technologies
+
+PostgreSQL
+
+SQL (CTEs, window functions, CASE statements)
+
+pgAdmin
+
+Excel (initial data inspection only)
+
+
+
 
