@@ -1,3 +1,5 @@
+      Project Overview
+
 This project is part of the MeriSKILL Internship Program and focuses on cleaning, transforming, and enriching a sales dataset using PostgreSQL.
 
 The goal is to prepare raw sales data for analysis by:
@@ -12,7 +14,7 @@ Ensuring the dataset is analysis-ready and reliable
 
 Dataset Description
 
-The dataset contains sales transaction records with the following key attributes:
+      The dataset contains sales transaction records with the following key attributes:
 
 Order ID
 
@@ -34,7 +36,7 @@ Hour
 
 Sales
 
-Data Cleaning Steps
+     Data Cleaning Steps
 1 Initial Data Inspection
 
 Reviewed the dataset structure
@@ -57,7 +59,7 @@ Order Date
 
 Sales
 
-Ensured data completeness before transformation
+     Ensured data completeness before transformation
 
 3️ Duplicate Detection & Removal
 
@@ -89,7 +91,7 @@ Evening
 
 Weekdays – extracted day of the week from order date
 
-Tools & Techniques
+     Tools & Techniques
 
 Database: PostgreSQL
 
@@ -109,7 +111,7 @@ Date & Time Functions
 
 
 
-Key Learnings
+      Key Learnings
 
 Writing clean, readable SQL for real-world datasets
 
